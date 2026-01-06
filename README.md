@@ -32,5 +32,5 @@ One of the core objectives of this project was generating high-resolution figure
 ## About the Author
 **Muhammad-Tariq Abdulraheem**
 * **Chair**, IEEE Student Branch, FUT Minna
-* **B.Eng. Mechatronics Engineering** (First Class Standing)
+* **B.Eng. Mechatronics Engineering** 
 * **Junior Research Assistant** at AEIRG, FUT Minna
